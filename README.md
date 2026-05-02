@@ -28,6 +28,10 @@
 > | [🔭 PriorityLens](https://github.com/Poojaahegde/prioritylens) | AI-powered feature prioritization engine with bias detection + explainable rankings | FastAPI, LLM, Pydantic |
 > | [🚨 ScopeCreep](https://github.com/Poojaahegde/scopecreep) | Real-time scope drift detector — flags requirement changes before timelines collapse | FastAPI, NLP, TF-IDF |
 > | [📊 Product Metrics Dashboard](https://github.com/Poojaahegde/product-metrics-dashboard) | Interactive DAU, retention & conversion tracker with anomaly detection | Python, Streamlit, Matplotlib |
+> | [🚀 Smart Onboarding Analyzer](https://github.com/Poojaahegde/smart-onboarding-analyzer) | LLM-powered funnel diagnosis — identifies drop-off root causes + ICE-prioritized fixes + ARR impact simulation | Python, Streamlit, OpenAI |
+> | [🔍 AI Search Relevance Tester](https://github.com/Poojaahegde/ai-search-relevance-tester) | NLP search quality evaluation — NDCG, MRR, Precision@K with ranking failure detection | Python, TF-IDF, Plotly |
+> | [📈 Retention Cohort Engine](https://github.com/Poojaahegde/retention-cohort-engine) | Deep cohort analysis — D1/D7/D30/D90 curves, cliff detection, GBM LTV prediction | Python, scikit-learn, Plotly |
+> | [💬 NPS Intelligence Dashboard](https://github.com/Poojaahegde/nps-intelligence-dashboard) | AI-powered NPS analysis — verbatim theme extraction, passive churn risk, PM action plans | Python, KMeans, TextBlob |
 >
 > ---
 >
@@ -41,11 +45,11 @@
 >
 > ## 🛠 Skills & Stack
 >
-> **Product:** A/B Testing · Experimentation Frameworks · PRD Writing · OKR Alignment · Roadmapping · User Research · NPS/CSAT · Activation & Retention Metrics
+> **Product:** A/B Testing · Experimentation Frameworks · PRD Writing · OKR Alignment · Roadmapping · User Research · NPS/CSAT · Activation & Retention Metrics · Search Quality (NDCG/MRR)
 >
-> **AI/ML:** LLM Prompt Engineering · OpenAI / Anthropic APIs · NLP (TF-IDF, KMeans, sentiment) · scikit-learn · Feature Engineering · Model Evaluation
+> **AI/ML:** LLM Prompt Engineering · OpenAI / Anthropic APIs · NLP (TF-IDF, KMeans, sentiment) · scikit-learn · Gradient Boosting · Feature Engineering · Model Evaluation
 >
-> **Technical:** Python · Streamlit · FastAPI · Pandas · NumPy · SQL · Matplotlib · Pydantic
+> **Technical:** Python · Streamlit · FastAPI · Pandas · NumPy · SQL · Matplotlib · Plotly · Pydantic
 >
 > **Product Tools:** Figma · Amplitude · Mixpanel · Jira · Notion · Productboard
 >
@@ -55,7 +59,7 @@
 >
 > Most PM portfolios are slide decks. Mine is running code.
 >
-> Each project here demonstrates a specific product skill — experimentation, retention, user research, prioritization, scope management — implemented end-to-end. I built these because I believe **the best way to prove you understand a tool is to build it yourself.**
+> Each project here demonstrates a specific product skill — experimentation, retention, user research, prioritization, scope management, search quality, NPS analysis — implemented end-to-end. I built these because I believe **the best way to prove you understand a tool is to build it yourself.**
 >
 > ---
 >
@@ -63,7 +67,7 @@
 >
 > - 💼 [LinkedIn](https://www.linkedin.com/in/poojahegde998p/)
 > - - 📧 poojah1012@gmail.com
->   - - 🌍 Open to: AI PM roles · Product Strategy · LLM Product · Growth PM
+>   - - 🌍 Open to: AI PM roles · Product Strategy · LLM Product · Growth PM · Search PM
 >    
 >     - ---
 >
