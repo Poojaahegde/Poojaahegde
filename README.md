@@ -1,74 +1,71 @@
 # Hi, I'm Pooja Hegde 👋
 
-### AI Product Manager · Builder · Human-Centered Technologist
+### AI Product Manager · Product Builder · Human-Centered Technologist
 
-> *I turn AI research into products that ship, learn, and move business metrics.*
->
-> I sit at the intersection of **AI, product strategy, and user empathy** — translating models and data into real features that solve real problems. I don't just manage product; I build it: prototypes, experiments, dashboards, and AI pipelines, end to end.
->
-> ---
->
-> ## 🧠 What I Believe
->
-> - **Clarity over hype.** Most AI product failures are UX failures. I design for the user who doesn't know what a token is.
-> - - **Metrics over opinions.** Every decision I make is traceable to a user signal, an experiment, or a business outcome.
->   - - **Ship, learn, iterate.** The best PRD is one that has already been invalidated by a user.
->    
->     - ---
->
-> ## 🚀 What I Build
->
-> | Project | What It Does | Stack |
-> |---|---|---|
-> | [🔬 A/B Test Analyzer](https://github.com/Poojaahegde/ab-test-analyzer) | Statistical significance calculator with go/no-go verdicts for PMs | Python, Streamlit, SciPy |
-> | [📉 Churn Prediction Dashboard](https://github.com/Poojaahegde/churn-prediction-dashboard) | ML-powered churn detection with explainable AI + retention playbooks | Python, Streamlit, scikit-learn |
-> | [🎙️ AI User Interview Analyzer](https://github.com/Poojaahegde/ai-user-interview-analyzer) | Turns raw transcripts into themes, pain points & opportunity signals in minutes | Python, NLTK, KMeans |
-> | [💬 FeedbackSense](https://github.com/Poojaahegde/FeedbackSense-AI-Product-Feedback-Analyzer) | Clusters user feedback into themes + sentiment — replaces 5 hours of manual triage | Python, TF-IDF, TextBlob |
-> | [💭 EmotionLoop](https://github.com/Poojaahegde/EmotionLoop) | Detects 6 emotions in user text — anger, joy, fear, sadness, surprise, neutral | Python, scikit-learn |
-> | [🔭 PriorityLens](https://github.com/Poojaahegde/prioritylens) | AI-powered feature prioritization engine with bias detection + explainable rankings | FastAPI, LLM, Pydantic |
-> | [🚨 ScopeCreep](https://github.com/Poojaahegde/scopecreep) | Real-time scope drift detector — flags requirement changes before timelines collapse | FastAPI, NLP, TF-IDF |
-> | [📊 Product Metrics Dashboard](https://github.com/Poojaahegde/product-metrics-dashboard) | Interactive DAU, retention & conversion tracker with anomaly detection | Python, Streamlit, Matplotlib |
-> | [🚀 Smart Onboarding Analyzer](https://github.com/Poojaahegde/smart-onboarding-analyzer) | LLM-powered funnel diagnosis — identifies drop-off root causes + ICE-prioritized fixes + ARR impact simulation | Python, Streamlit, OpenAI |
-> | [🔍 AI Search Relevance Tester](https://github.com/Poojaahegde/ai-search-relevance-tester) | NLP search quality evaluation — NDCG, MRR, Precision@K with ranking failure detection | Python, TF-IDF, Plotly |
-> | [📈 Retention Cohort Engine](https://github.com/Poojaahegde/retention-cohort-engine) | Deep cohort analysis — D1/D7/D30/D90 curves, cliff detection, GBM LTV prediction | Python, scikit-learn, Plotly |
-> | [💬 NPS Intelligence Dashboard](https://github.com/Poojaahegde/nps-intelligence-dashboard) | AI-powered NPS analysis — verbatim theme extraction, passive churn risk, PM action plans | Python, KMeans, TextBlob |
->
-> ---
->
-> ## 🎯 My Product Thinking Framework
->
-> **Problem → Signal → Hypothesis → Experiment → Impact**
->
-> Every project above follows this arc. I don't build for the sake of building — I start with a real PM pain point, validate it with personas, design a measurable solution, and ship something that could exist in production.
->
-> ---
->
-> ## 🛠 Skills & Stack
->
-> **Product:** A/B Testing · Experimentation Frameworks · PRD Writing · OKR Alignment · Roadmapping · User Research · NPS/CSAT · Activation & Retention Metrics · Search Quality (NDCG/MRR)
->
-> **AI/ML:** LLM Prompt Engineering · OpenAI / Anthropic APIs · NLP (TF-IDF, KMeans, sentiment) · scikit-learn · Gradient Boosting · Feature Engineering · Model Evaluation
->
-> **Technical:** Python · Streamlit · FastAPI · Pandas · NumPy · SQL · Matplotlib · Plotly · Pydantic
->
-> **Product Tools:** Figma · Amplitude · Mixpanel · Jira · Notion · Productboard
->
-> ---
->
-> ## 📌 Why This Portfolio Exists
->
-> Most PM portfolios are slide decks. Mine is running code.
->
-> Each project here demonstrates a specific product skill — experimentation, retention, user research, prioritization, scope management, search quality, NPS analysis — implemented end-to-end. I built these because I believe **the best way to prove you understand a tool is to build it yourself.**
->
-> ---
->
-> ## 🤝 Let's Connect
->
-> - 💼 [LinkedIn](https://www.linkedin.com/in/poojahegde998p/)
-> - - 📧 poojah1012@gmail.com
->   - - 🌍 Open to: AI PM roles · Product Strategy · LLM Product · Growth PM · Search PM
->    
->     - ---
->
-> *"The goal of AI in products is not to automate users — it's to give them superpowers."*
+> I turn ambiguous user problems into testable product decisions—and build enough of the solution to make the thinking inspectable.
+
+I work where **AI, product strategy, experimentation, and user trust** meet. My portfolio is built for the questions strong product teams ask: What is the real friction? What are we deliberately not building? What evidence would change the decision? What breaks at the edge?
+
+## Start with these two case studies
+
+### [Trust-First Retention](https://github.com/Poojaahegde/trust-first-retention)
+
+**A cancellation experience designed to earn the next renewal—not trap the current one.**
+
+[Live decision lab](https://poojaahegde.github.io/trust-first-retention/) · [Redacted PRD](https://github.com/Poojaahegde/trust-first-retention/blob/master/docs/PRD_REDACTED.md) · [Friction map](https://github.com/Poojaahegde/trust-first-retention/blob/master/docs/FRICTION_MAP.md) · [Experiment plan](https://github.com/Poojaahegde/trust-first-retention/blob/master/docs/EXPERIMENT_PLAN.md)
+
+- Frames cancellation completion and post-flow trust as non-negotiable guardrails.
+- Includes implementation-level acceptance criteria, failure behavior, analytics definitions, and stopping rules.
+- Ships with a responsive, interactive decision dashboard using clearly labeled synthetic scenarios.
+
+### [Confidence Gate](https://github.com/Poojaahegde/confidence-gate)
+
+**An AI support copilot that knows when not to send.**
+
+[Live product + readout](https://poojaahegde.github.io/confidence-gate/) · [Experiment readout](https://github.com/Poojaahegde/confidence-gate/blob/master/docs/EXPERIMENT_READOUT.md) · [PRD-lite](https://github.com/Poojaahegde/confidence-gate/blob/master/docs/PRD_LITE.md) · [Friction map](https://github.com/Poojaahegde/confidence-gate/blob/master/docs/FRICTION_MAP.md)
+
+- Tests targeted evidence gates for high-risk AI-generated support claims.
+- Shows validity checks, effect sizes, guardrails, segment heterogeneity, limitations, and what would reverse the rollout decision.
+- Turns the aggregate result into a bounded launch: ship where evidence is strong, hold where it is not.
+
+> Both are portfolio simulations. Company context is fictionalized and all displayed data is synthetic; the product reasoning, experiment math, and working experiences are mine.
+
+## How I work
+
+```text
+Problem → Friction → Hypothesis → Product contract → Build → Measure → Decision
+```
+
+- **Write for action.** Non-goals stop scope drift; acceptance criteria remove interpretation at handoff.
+- **Treat metrics as contracts.** I define the population, numerator, denominator, guardrails, and decision threshold before reading results.
+- **Use AI with boundaries.** Confidence is not proof. I design for provenance, human judgment, failure recovery, and auditability.
+- **Build to learn.** A working prototype exposes tradeoffs that a polished deck can hide.
+
+## Selected product builds
+
+| Project | Product problem | What it demonstrates |
+|---|---|---|
+| [Signal to Roadmap](https://github.com/Poojaahegde/signal-to-roadmap) | Turn fragmented customer signals into an evidence-backed roadmap | Full-stack AI product, synthesis, challenge mode |
+| [PriorityLens](https://github.com/Poojaahegde/prioritylens) | Make feature prioritization explainable and auditable | Decision systems, bias detection, product strategy |
+| [ScopeCreep](https://github.com/Poojaahegde/scopecreep) | Detect requirement drift before timelines collapse | NLP, workflow design, delivery risk |
+| [Smart Onboarding Analyzer](https://github.com/Poojaahegde/smart-onboarding-analyzer) | Diagnose activation drop-off and size interventions | Growth, funnels, prioritization, ARR scenarios |
+
+[Explore all repositories →](https://github.com/Poojaahegde?tab=repositories)
+
+## Product craft
+
+**Product:** PRDs · Product strategy · User research · Friction mapping · Acceptance criteria · Roadmapping · Growth loops · Activation & retention  
+**Experimentation:** Hypothesis design · A/B testing · Guardrails · Metric contracts · Cohorts · Decision readouts  
+**AI products:** LLM UX · Retrieval and evidence · Evals · Confidence calibration · Human-in-the-loop systems · Safety and auditability  
+**Builder stack:** Python · FastAPI · TypeScript · Next.js · Streamlit · SQL · scikit-learn · Pandas · Plotly
+
+## Let's talk
+
+- [LinkedIn](https://www.linkedin.com/in/poojahegde998p/)
+- [Email](mailto:poojah1012@gmail.com)
+- Open to **AI PM, Product Strategy, Growth PM, and LLM product roles**
+
+---
+
+*The best product work makes the decision—and its tradeoffs—easy to inspect.*
+
