@@ -32,6 +32,17 @@ I work where **product strategy, experimentation, analytics, and trustworthy AI*
 - Shows validity checks, effect sizes, guardrails, segment heterogeneity, limitations, and what would reverse the rollout decision.
 - Turns the aggregate result into a bounded launch: ship where evidence is strong, hold where it is not.
 
+### [MBA Decision Lab](https://github.com/Poojaahegde/mba-decision-lab)
+
+> **Portfolio learning tool:** Example assumptions are synthetic and every input can be changed.
+
+**A transparent business-case calculator for MBA work.**
+
+[Try the live tool](https://poojaahegde.github.io/mba-decision-lab/) · [Methods and assumptions](https://github.com/Poojaahegde/mba-decision-lab/blob/master/README.md)
+
+- Calculates break-even volume, net present value, payback, and cumulative cash flow.
+- Compares editable conservative, base, and upside scenarios and exports monthly results to CSV.
+
 ## How I work
 
 **Operating loop:** Problem → Friction → Hypothesis → Product contract → Build → Measure → Decision
@@ -45,6 +56,7 @@ I work where **product strategy, experimentation, analytics, and trustworthy AI*
 
 | Project | Product problem | What it demonstrates |
 |---|---|---|
+| [MBA Decision Lab](https://github.com/Poojaahegde/mba-decision-lab) | Test a business case against changing assumptions | Unit economics, NPV, payback, scenario analysis |
 | [Signal to Roadmap](https://github.com/Poojaahegde/signal-to-roadmap) | Turn fragmented customer signals into an evidence-backed roadmap | Full-stack AI product, synthesis, challenge mode |
 | [PriorityLens](https://github.com/Poojaahegde/prioritylens) | Make feature prioritization explainable and auditable | Decision systems, bias detection, product strategy |
 | [ScopeCreep](https://github.com/Poojaahegde/scopecreep) | Detect requirement drift before timelines collapse | NLP, workflow design, delivery risk |
