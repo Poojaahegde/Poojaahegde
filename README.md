@@ -1,80 +1,54 @@
-# Hi, I'm Pooja Hegde 👋
+<div align="center">
 
-### Product Builder · AI & Data Products
+<img src="product-decisions.svg" alt="Pooja Hegde — Product Manager and builder. Good product decisions show their work." width="100%" />
 
-> I write product contracts teams can build, instrument, and evaluate—then make the tradeoffs inspectable in a working prototype.
+### Product Manager · AI and data products · Builder
 
-I work where **product strategy, experimentation, analytics, and trustworthy AI** meet. My portfolio is built for the questions strong product teams ask: What is the real friction? What are we deliberately not building? What evidence would change the decision? What breaks at the edge?
+I turn ambiguous customer problems into clear product decisions, working prototypes, and measurable experiments.
 
-## Start with these two case studies
+[Portfolio](https://poojahegdeportfolio.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/poojahegde998p/) · [Email](mailto:poojagh1298@gmail.com)
 
-### [Trust-First Retention](https://github.com/Poojaahegde/trust-first-retention)
-
-> **Portfolio simulation:** Fictionalized company context and synthetic scenario data. The PRD, decision logic, acceptance criteria, instrumentation plan, and working prototype are my original work.
-
-**A cancellation experience designed to earn the next renewal—not trap the current one.**
-
-[Live decision lab](https://poojaahegde.github.io/trust-first-retention/) · [Redacted PRD](https://github.com/Poojaahegde/trust-first-retention/blob/master/docs/PRD_REDACTED.md) · [Friction map](https://github.com/Poojaahegde/trust-first-retention/blob/master/docs/FRICTION_MAP.md) · [Experiment plan](https://github.com/Poojaahegde/trust-first-retention/blob/master/docs/EXPERIMENT_PLAN.md)
-
-- Frames cancellation completion and post-flow trust as non-negotiable guardrails.
-- Includes implementation-level acceptance criteria, dependency failure behavior, analytics definitions, and stopping rules.
-- Ships with a responsive, interactive decision dashboard using clearly labeled synthetic scenarios.
-
-### [Confidence Gate](https://github.com/Poojaahegde/confidence-gate)
-
-> **Portfolio simulation:** Synthetic conversations, policies, experiment inputs, and results. The product contract, experiment analysis, decision logic, and working prototype are my original work.
-
-**An AI support copilot that knows when not to send.**
-
-[Live product + readout](https://poojaahegde.github.io/confidence-gate/) · [Experiment readout](https://github.com/Poojaahegde/confidence-gate/blob/master/docs/EXPERIMENT_READOUT.md) · [PRD-lite](https://github.com/Poojaahegde/confidence-gate/blob/master/docs/PRD_LITE.md) · [Friction map](https://github.com/Poojaahegde/confidence-gate/blob/master/docs/FRICTION_MAP.md)
-
-- Tests targeted evidence gates for high-risk AI-generated support claims.
-- Shows validity checks, effect sizes, guardrails, segment heterogeneity, limitations, and what would reverse the rollout decision.
-- Turns the aggregate result into a bounded launch: ship where evidence is strong, hold where it is not.
-
-### [MBA Decision Lab](https://github.com/Poojaahegde/mba-decision-lab)
-
-> **Portfolio learning tool:** Example assumptions are synthetic and every input can be changed.
-
-**A transparent business-case calculator for MBA work.**
-
-[Try the live tool](https://poojaahegde.github.io/mba-decision-lab/) · [Methods and assumptions](https://github.com/Poojaahegde/mba-decision-lab/blob/master/README.md)
-
-- Calculates break-even volume, net present value, payback, and cumulative cash flow.
-- Compares editable conservative, base, and upside scenarios and exports monthly results to CSV.
-
-## How I work
-
-**Operating loop:** Problem → Friction → Hypothesis → Product contract → Build → Measure → Decision
-
-- **Write for action.** Non-goals stop scope drift; acceptance criteria remove interpretation at handoff.
-- **Treat metrics as contracts.** I define the population, numerator, denominator, guardrails, and decision threshold before reading results.
-- **Use AI with boundaries.** Confidence is not proof. I design for provenance, human judgment, failure recovery, and auditability.
-- **Build to learn.** A working prototype exposes tradeoffs that a polished deck can hide.
-
-## Selected public builds
-
-| Project | Product problem | What it demonstrates |
-|---|---|---|
-| [MBA Decision Lab](https://github.com/Poojaahegde/mba-decision-lab) | Test a business case against changing assumptions | Unit economics, NPV, payback, scenario analysis |
-| [Signal to Roadmap](https://github.com/Poojaahegde/signal-to-roadmap) | Turn fragmented customer signals into an evidence-backed roadmap | Full-stack AI product, synthesis, challenge mode |
-| [PriorityLens](https://github.com/Poojaahegde/prioritylens) | Make feature prioritization explainable and auditable | Decision systems, bias detection, product strategy |
-| [ScopeCreep](https://github.com/Poojaahegde/scopecreep) | Detect requirement drift before timelines collapse | NLP, workflow design, delivery risk |
-| [Smart Onboarding Analyzer](https://github.com/Poojaahegde/smart-onboarding-analyzer) | Diagnose activation drop-off and size interventions | Growth, funnels, prioritization, ARR scenarios |
-
-## Product craft
-
-**Product:** PRDs · Product strategy · User research · Friction mapping · Acceptance criteria · Roadmapping · Growth loops · Activation & retention  
-**Experimentation:** Hypothesis design · A/B testing · Guardrails · Metric contracts · Cohorts · Decision readouts  
-**AI products:** LLM UX · Retrieval and evidence · Evals · Confidence calibration · Human-in-the-loop systems · Safety and auditability  
-**Builder stack:** Python · FastAPI · TypeScript · Next.js · Streamlit · SQL · scikit-learn · Pandas · Plotly
-
-## Let's talk
-
-- [LinkedIn](https://www.linkedin.com/in/poojahegde998p/)
-- [Email](mailto:poojagh1298@gmail.com)
-- Open to **product builder, AI product, product strategy, growth, and technical product roles**
+</div>
 
 ---
 
-*The best product work makes the decision—and its tradeoffs—easy to inspect.*
+### What you'll find here
+
+I work across customer discovery, product strategy, experimentation, and delivery. My public projects make the reasoning visible: the user problem, the tradeoffs, the requirements, the prototype, and the evidence that would change a launch decision.
+
+|  |  |
+| --- | --- |
+| **[Confidence Gate](https://github.com/Poojaahegde/confidence-gate)**<br>AI support copilot review flow that surfaces evidence and sends uncertain or policy-sensitive claims to a human.<br>[Try the prototype](https://poojaahegde.github.io/confidence-gate/) · [Read the experiment](https://github.com/Poojaahegde/confidence-gate/blob/master/docs/EXPERIMENT_READOUT.md)<br><sub>AI product · evaluation · trust</sub> | **[Trust-First Retention](https://github.com/Poojaahegde/trust-first-retention)**<br>A cancellation experience designed around voluntary retention, clear customer choice, and measurable guardrails.<br>[Explore the decision lab](https://poojaahegde.github.io/trust-first-retention/) · [Read the PRD](https://github.com/Poojaahegde/trust-first-retention/blob/master/docs/PRD_REDACTED.md)<br><sub>Growth · experimentation · product requirements</sub> |
+| **[MBA Decision Lab](https://github.com/Poojaahegde/mba-decision-lab)**<br>An editable business-case tool for break-even, NPV, payback, and scenario analysis.<br>[Use the tool](https://poojaahegde.github.io/mba-decision-lab/) · [See the assumptions](https://github.com/Poojaahegde/mba-decision-lab/blob/master/README.md)<br><sub>Business strategy · financial decisions · transparent models</sub> | **[Signal to Roadmap](https://github.com/Poojaahegde/signal-to-roadmap)**<br>A prototype for turning fragmented customer signals into themes, opportunities, and roadmap options.<br>[Explore the repository](https://github.com/Poojaahegde/signal-to-roadmap)<br><sub>Discovery · synthesis · prioritization</sub> |
+
+> **Evidence note:** These are independent portfolio builds. Where a case study uses fictional context, synthetic data, or a simulated experiment, its repository says so explicitly. They do not represent production customer outcomes.
+
+### How I make product decisions
+
+```text
+Observe the workflow → Find the friction → State the tradeoff →
+Write the product contract → Build to learn → Measure → Decide
+```
+
+- **Start with the customer.** Separate the underlying problem from the first solution requested.
+- **Write for delivery.** Define non-goals, acceptance criteria, failure states, and ownership.
+- **Measure before launch.** Specify the population, success metric, guardrails, and decision threshold.
+- **Use AI with judgment.** Make sources, uncertainty, escalation, and human review visible.
+
+### More things I've built
+
+[Hypothesis Studio AI](https://github.com/Poojaahegde/hypothesis-studio-ai) · [PriorityLens](https://github.com/Poojaahegde/prioritylens) · [ScopeCreep](https://github.com/Poojaahegde/scopecreep) · [Smart Onboarding Analyzer](https://github.com/Poojaahegde/smart-onboarding-analyzer)
+
+### Product craft and tools
+
+`Customer discovery` `PRDs` `Roadmaps` `Acceptance criteria` `A/B testing` `SQL` `Product analytics` `Python` `JavaScript` `AI evaluation`
+
+---
+
+<div align="center">
+
+**Good product decisions show their work.**
+
+[See the portfolio](https://poojahegdeportfolio.netlify.app/) · [Let's connect](https://www.linkedin.com/in/poojahegde998p/)
+
+</div>
