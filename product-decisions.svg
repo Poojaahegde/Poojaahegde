@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Pooja Hegde — Product Manager and builder</title>
+  <desc id="desc">Good product decisions show their work. Discover, decide, build, measure.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#102d2b"/><stop offset=".57" stop-color="#173c39"/><stop offset="1" stop-color="#204b43"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#edb58d"/><stop offset="1" stop-color="#ee8a6f"/></linearGradient>
+  </defs>
+  <rect x="0" y="0" width="1200" height="340" rx="24" fill="url(#bg)"/>
+  <circle cx="1050" cy="40" r="145" fill="#d96d55" opacity=".12"/>
+  <path d="M0 257 C255 230 315 315 574 271 S930 232 1200 272" fill="none" stroke="#a7ceb9" stroke-width="1" opacity=".15"/>
+  <text x="60" y="58" fill="#f5c4a2" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="3">POOJA HEGDE  /  PRODUCT MANAGER + BUILDER</text>
+  <text x="58" y="132" fill="#f7f3e9" font-family="Georgia, serif" font-size="52" font-weight="700">Good product decisions</text>
+  <text x="58" y="194" fill="url(#accent)" font-family="Georgia, serif" font-size="52" font-style="italic" font-weight="700">show their work.</text>
+  <text x="61" y="240" fill="#d4e3d8" font-family="Arial, sans-serif" font-size="19">Customer insight → clear requirements → working product → measured outcome</text>
+  <g font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1">
+    <rect x="60" y="269" width="143" height="39" rx="19" fill="#e9efdd"/><text x="82" y="294" fill="#193e38">DISCOVER</text>
+    <rect x="217" y="269" width="117" height="39" rx="19" fill="#d5e7d6"/><text x="239" y="294" fill="#193e38">DECIDE</text>
+    <rect x="348" y="269" width="105" height="39" rx="19" fill="#b9dacb"/><text x="370" y="294" fill="#193e38">BUILD</text>
+    <rect x="467" y="269" width="133" height="39" rx="19" fill="#f2bea0"/><text x="489" y="294" fill="#193e38">MEASURE</text>
+  </g>
+  <g transform="translate(894 84)">
+    <rect width="245" height="178" rx="18" fill="#f7f3e9"/>
+    <text x="20" y="32" fill="#244b43" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2">THE PRODUCT LOOP</text>
+    <path d="M41 60 V145" stroke="#adc9b7" stroke-width="2"/>
+    <circle cx="41" cy="65" r="7" fill="#e7765e"/><circle cx="41" cy="105" r="7" fill="#e7765e"/><circle cx="41" cy="145" r="7" fill="#e7765e"/>
+    <text x="61" y="71" fill="#1e3e38" font-family="Arial, sans-serif" font-size="15" font-weight="700">What matters?</text>
+    <text x="61" y="111" fill="#1e3e38" font-family="Arial, sans-serif" font-size="15" font-weight="700">What will we build?</text>
+    <text x="61" y="151" fill="#1e3e38" font-family="Arial, sans-serif" font-size="15" font-weight="700">What changed?</text>
+  </g>
+</svg>
