@@ -2,7 +2,7 @@
 
 <img src="product-decisions.svg" alt="Pooja Hegde — Product Manager and builder. Good product decisions show their work." width="100%" />
 
-### Product Manager · AI and data products · Builder
+### Product Manager · Customer insight to launch · Builder
 
 I turn ambiguous customer problems into clear product decisions, working prototypes, and measurable experiments.
 
@@ -19,7 +19,7 @@ I work across customer discovery, product strategy, experimentation, and deliver
 |  |  |
 | --- | --- |
 | **[Confidence Gate](https://github.com/Poojaahegde/confidence-gate)**<br>AI support copilot review flow that surfaces evidence and sends uncertain or policy-sensitive claims to a human.<br>[Try the prototype](https://poojaahegde.github.io/confidence-gate/) · [Read the experiment](https://github.com/Poojaahegde/confidence-gate/blob/master/docs/EXPERIMENT_READOUT.md)<br><sub>AI product · evaluation · trust</sub> | **[Trust-First Retention](https://github.com/Poojaahegde/trust-first-retention)**<br>A cancellation experience designed around voluntary retention, clear customer choice, and measurable guardrails.<br>[Explore the decision lab](https://poojaahegde.github.io/trust-first-retention/) · [Read the PRD](https://github.com/Poojaahegde/trust-first-retention/blob/master/docs/PRD_REDACTED.md)<br><sub>Growth · experimentation · product requirements</sub> |
-| **[MBA Decision Lab](https://github.com/Poojaahegde/mba-decision-lab)**<br>An editable business-case tool for break-even, NPV, payback, and scenario analysis.<br>[Use the tool](https://poojaahegde.github.io/mba-decision-lab/) · [See the assumptions](https://github.com/Poojaahegde/mba-decision-lab/blob/master/README.md)<br><sub>Business strategy · financial decisions · transparent models</sub> | **[Signal to Roadmap](https://github.com/Poojaahegde/signal-to-roadmap)**<br>A prototype for turning fragmented customer signals into themes, opportunities, and roadmap options.<br>[Explore the repository](https://github.com/Poojaahegde/signal-to-roadmap)<br><sub>Discovery · synthesis · prioritization</sub> |
+| **[Signal to Roadmap](https://github.com/Poojaahegde/signal-to-roadmap)**<br>Turn fragmented customer feedback into traceable issues and a draft roadmap.<br>[Try the dashboard](https://poojahegdeportfolio.netlify.app/apps/signal-to-roadmap/) · [Read the method](https://github.com/Poojaahegde/signal-to-roadmap/blob/master/README.md)<br><sub>Discovery · synthesis · prioritization</sub> | **[Launch Ledger](https://github.com/Poojaahegde/launch-ledger)**<br>Weigh activation, support, performance, and rollback readiness before expanding a pilot.<br>[Try the decision lab](https://poojaahegde.github.io/launch-ledger/) · [Read the PRD](https://github.com/Poojaahegde/launch-ledger/blob/master/PRD.md)<br><sub>Release strategy · guardrails · decision records</sub> |
 
 > **Evidence note:** These are independent portfolio builds. Where a case study uses fictional context, synthetic data, or a simulated experiment, its repository says so explicitly. They do not represent production customer outcomes.
 
@@ -37,7 +37,7 @@ Write the product contract → Build to learn → Measure → Decide
 
 ### More things I've built
 
-[Hypothesis Studio AI](https://github.com/Poojaahegde/hypothesis-studio-ai) · [PriorityLens](https://github.com/Poojaahegde/prioritylens) · [ScopeCreep](https://github.com/Poojaahegde/scopecreep) · [Smart Onboarding Analyzer](https://github.com/Poojaahegde/smart-onboarding-analyzer)
+[MBA Decision Lab](https://github.com/Poojaahegde/mba-decision-lab) · [Hypothesis Studio AI](https://github.com/Poojaahegde/hypothesis-studio-ai) · [PriorityLens](https://github.com/Poojaahegde/prioritylens) · [ScopeCreep](https://github.com/Poojaahegde/scopecreep) · [Smart Onboarding Analyzer](https://github.com/Poojaahegde/smart-onboarding-analyzer)
 
 ### Product craft and tools
 
