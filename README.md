@@ -19,7 +19,7 @@ I work across customer discovery, product strategy, experimentation, and deliver
 |  |  |
 | --- | --- |
 | **[Confidence Gate](https://github.com/Poojaahegde/confidence-gate)**<br>AI support copilot review flow that surfaces evidence and sends uncertain or policy-sensitive claims to a human.<br>[Try the prototype](https://poojaahegde.github.io/confidence-gate/) · [Read the experiment](https://github.com/Poojaahegde/confidence-gate/blob/master/docs/EXPERIMENT_READOUT.md)<br><sub>AI product · evaluation · trust</sub> | **[Trust-First Retention](https://github.com/Poojaahegde/trust-first-retention)**<br>A cancellation experience designed around voluntary retention, clear customer choice, and measurable guardrails.<br>[Explore the decision lab](https://poojaahegde.github.io/trust-first-retention/) · [Read the PRD](https://github.com/Poojaahegde/trust-first-retention/blob/master/docs/PRD_REDACTED.md)<br><sub>Growth · experimentation · product requirements</sub> |
-| **[Signal to Roadmap](https://github.com/Poojaahegde/signal-to-roadmap)**<br>Turn fragmented customer feedback into traceable issues and a draft roadmap.<br>[Try the dashboard](https://poojahegdeportfolio.netlify.app/apps/signal-to-roadmap/) · [Read the method](https://github.com/Poojaahegde/signal-to-roadmap/blob/master/README.md)<br><sub>Discovery · synthesis · prioritization</sub> | **[Launch Ledger](https://github.com/Poojaahegde/launch-ledger)**<br>Weigh activation, support, performance, and rollback readiness before expanding a pilot.<br>[Try the decision lab](https://poojaahegde.github.io/launch-ledger/) · [Read the PRD](https://github.com/Poojaahegde/launch-ledger/blob/master/PRD.md)<br><sub>Release strategy · guardrails · decision records</sub> |
+| **[Signal to Roadmap](https://github.com/Poojaahegde/signal-to-roadmap)**<br>Turn fragmented customer feedback into traceable issues and a draft roadmap.<br>[Try the dashboard](https://signal-to-roadmap.pages.dev/) · [Read the method](https://github.com/Poojaahegde/signal-to-roadmap/blob/master/README.md)<br><sub>Discovery · synthesis · prioritization</sub> | **[Launch Ledger](https://github.com/Poojaahegde/launch-ledger)**<br>Weigh activation, support, performance, and rollback readiness before expanding a pilot.<br>[Try the decision lab](https://poojaahegde.github.io/launch-ledger/) · [Read the PRD](https://github.com/Poojaahegde/launch-ledger/blob/master/PRD.md)<br><sub>Release strategy · guardrails · decision records</sub> |
 
 ### Data product spotlight
 
@@ -57,3 +57,4 @@ Write the product contract → Build to learn → Measure → Decide
 [See the portfolio](https://poojahegdeportfolio.netlify.app/) · [Let's connect](https://www.linkedin.com/in/poojahegde998p/)
 
 </div>
+
