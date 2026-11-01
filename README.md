@@ -6,7 +6,7 @@
 
 I turn ambiguous customer problems into clear product decisions, working prototypes, and measurable experiments.
 
-[Portfolio](https://poojahegdeportfolio.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/poojahegde998p/) · [Email](mailto:poojagh1298@gmail.com)
+  [LinkedIn](https://www.linkedin.com/in/poojahegde998p/) · [Email](mailto:poojagh1298@gmail.com)
 
 </div>
 
