@@ -1,8 +1,12 @@
-# Pooja Hegde
+<div align="center">
+
+<img src="product-decisions.svg" alt="Pooja Hegde — Product Manager and builder. Good product decisions show their work." width="100%" />
+
+</div>
 
 **Product manager and builder · B2B SaaS, support AI, and data workflows**
 
-I use customer feedback, support patterns, and product telemetry to decide what to build and how to measure it. At Method CRM, I worked with engineering and customer-facing teams on the QuickBooks first-sync experience. First-sync time went from about 45 minutes to under 15 minutes.
+I use customer feedback, support patterns, and product telemetry to decide what to build and how to measure it.
 
 [LinkedIn](https://www.linkedin.com/in/poojahegde998p/) · [Email](mailto:poojagh1298@gmail.com)
 
@@ -20,4 +24,4 @@ I use customer feedback, support patterns, and product telemetry to decide what 
 - **[Launch Ledger](https://github.com/Poojaahegde/launch-ledger)** uses activation, support, latency, and rollback rules to explain when to expand, hold, or stop a pilot. [Try the decision lab](https://poojaahegde.github.io/launch-ledger/)
 - **[Schema Breakline](https://github.com/Poojaahegde/schema-breakline)** is a Python data contract check that reports the field and rule that broke before ingestion. [Read the product brief](https://github.com/Poojaahegde/schema-breakline/blob/master/PRD.md)
 
-The public projects are independent builds. The demos and Confidence Gate experiment use synthetic data. The Method CRM example above is from professional work.
+The public projects are independent builds. The demos and Confidence Gate experiment use synthetic data.
